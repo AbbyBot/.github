@@ -9,7 +9,7 @@ The AbbyBot system consists of several interconnected services, each playing a c
 1. **AbbyBot (Discord Bot):** The core of the project, AbbyBot, manages Discord servers with administrative features, event handling, and storytelling functions.
 2. **Dashboard:** A user-friendly interface where server administrators can configure and monitor bot activities, available to those who add AbbyBot to their server.
 3. **API:** Provides integration services to manage bot data and synchronize server information.
-4. **Website:** A promotional website where users can learn more about AbbyBot and add it to their wishlists. Check it out at [**abbybot.cl**](https://abbybot.cl)!
+4. **Website:** A promotional website where users can learn more about AbbyBot and add it to their wishlists. Check it out at [**abbybotproject.com**](https://abbybotproject.com)
 
 ## How to Support Us
 
@@ -19,6 +19,6 @@ Feel free to explore the repository and create a pull request. We would love to 
 
 ---
 
-Check out our website: [**abbybot.cl**](https://abbybot.cl)
+Check out our website: [**abbybotproject.com**](https://abbybotproject.com)
 
 We appreciate your support!
